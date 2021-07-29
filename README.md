@@ -15,7 +15,7 @@
           ];
       }
 
-      public function getDConocimientosSobre()
+      public function getConocimientosSobre()
       {
           return [
               Angular::class,
