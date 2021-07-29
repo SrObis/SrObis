@@ -1,16 +1,41 @@
-### Hi there 👋
+```php
+<?php
 
-<!--
-**SrObis/SrObis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  nombre JordiObisFarre;
 
-Here are some ideas to get you started:
+  class Sobre extends Mi
+  {
+      public function getTrabajoActual()
+      {
+          return [
+              'lugarDeTrabajo' => [
+                  'compañía' => 'Indra Sistemas',
+                  'position' => 'Técnico Software SharePoint'         
+              ]
+          ];
+      }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      public function getDConocimientosSobre()
+      {
+          return [
+              Angular::class,
+              Bootstrap::class,
+              C#::class,
+              CSS::class,
+              GitHub::class,
+              HTML5::class,
+              Java::class,
+              Javascript::class,
+              PowerShell::class,
+              React::class,
+              ReactNative::class,
+              SharePoint::class,
+              Php::class,
+          ];
+      }
+
+
+  }
+  
+?>
+```
