@@ -9,8 +9,13 @@
       {
           return [
               'lugarDeTrabajo' => [
-                  'compañía' => 'Indra Sistemas',
-                  'position' => 'Técnico Software SharePoint'         
+                  'compañía' => 'Freelance / Autònom',
+                  'posición' => 'Desarrollador Web y de Aplicaciones',
+                  'especialización' => [
+                      'Frontend' => ['React', 'Angular', 'Bootstrap'],
+                      'Backend' => ['PHP', 'MySQL'],
+                      'Fullstack' => true
+                  ]
               ]
           ];
       }
@@ -20,22 +25,24 @@
           return [
               Angular::class,
               Bootstrap::class,
-              C#::class,
+              CSharp::class,
               CSS::class,
               GitHub::class,
               HTML5::class,
               Java::class,
               Javascript::class,
+              MySQL::class,
+              PHP::class,
               PowerShell::class,
               React::class,
               ReactNative::class,
               SharePoint::class,
-              Php::class,
+              TailwindCSS::class,
+              Wordpress::class
           ];
-      }
-
-
+      }     
   }
-  
+
 ?>
+
 ```
