@@ -1,48 +1,21 @@
-```php
-<?php
+# Jordi Obis Farre
 
-  nombre JordiObisFarre;
+Ingeniero informático especializado en **IA aplicada (RAG, LLMs) y Python**. Lleida, Cataluña.
 
-  class Sobre extends Mi
-  {
-      public function getTrabajoActual()
-      {
-          return [
-              'lugarDeTrabajo' => [
-                  'compañía' => 'Freelance / Autònom',
-                  'posición' => 'Desarrollador Web y de Aplicaciones',
-                  'especialización' => [
-                      'Frontend' => ['React', 'Angular', 'Bootstrap'],
-                      'Backend' => ['PHP', 'MySQL'],
-                      'Fullstack' => true
-                  ]
-              ]
-          ];
-      }
+## Qué hago
+- Chatbots RAG con ChromaDB, GPT y Ollama (autónomo, 2024-2026).
+- Chatbot corporativo en Python con migración a MCP (prácticas en SEMIC, 2026).
+- Automatización y SharePoint, Power Automate, Nintex y C#/.NET (Indra, 2020-2023).
 
-      public function getConocimientosSobre()
-      {
-          return [
-              Angular::class,
-              Bootstrap::class,
-              CSharp::class,
-              CSS::class,
-              GitHub::class,
-              HTML5::class,
-              Java::class,
-              Javascript::class,
-              MySQL::class,
-              PHP::class,
-              PowerShell::class,
-              React::class,
-              ReactNative::class,
-              SharePoint::class,
-              TailwindCSS::class,
-              Wordpress::class
-          ];
-      }     
-  }
+## Formación
+- Máster en Inteligencia Artificial, UNIR.
+- Grado en Ingeniería Informática, UCAM.
+- Microsoft Azure Fundamentals.
 
-?>
+## Stack
+Python, TensorFlow, PyTorch, LangChain, Ollama, ChromaDB, SQL, C#/.NET, SharePoint, Azure, Docker, Django, JavaScript.
 
-```
+## Otros
+Presidente del Club Escacs Pardinyes: transformación digital del club (de 20 a 80 federados).
+
+LinkedIn: https://www.linkedin.com/in/jordiobisfarre
