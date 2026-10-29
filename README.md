@@ -8,9 +8,12 @@ Ingeniero informático especializado en **IA aplicada (RAG, LLMs) y Python**. Ll
 - Automatización y SharePoint, Power Automate, Nintex y C#/.NET (Indra, 2020-2023).
 
 ## Formación
-- Máster en Inteligencia Artificial, UNIR.
-- Grado en Ingeniería Informática, UCAM.
-- Microsoft Azure Fundamentals.
+- Máster Universitario en Inteligencia Artificial, UNIR (2025-2026), con especialización en Data Engineering y MLOps.
+- MBA en Nuevas Tecnologías, UNADE (2024-2025).
+- Grado en Ingeniería Informática, UCAM (2021-2025).
+- Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, iLERNA (2021-2022).
+- Técnico Superior en Desarrollo de Aplicaciones Web, iLERNA (2019-2021).
+- Microsoft Azure Fundamentals (2026).
 
 ## Stack
 Python, TensorFlow, PyTorch, LangChain, Ollama, ChromaDB, SQL, C#/.NET, SharePoint, Azure, Docker, Django, JavaScript.
